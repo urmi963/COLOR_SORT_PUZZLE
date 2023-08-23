@@ -1,6 +1,5 @@
 /* 
 TO DO:
-A bug with water transfer                                                      done
 Add "You Won"                                                                  done
 Add animations (while holding glass and while transferring water)              done
 Add restart button                                                             done
